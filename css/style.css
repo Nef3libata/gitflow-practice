@@ -7,3 +7,44 @@
     padding-top: 20px;
   }
 }
+
+
+.testimonial {
+  margin-top: 130px;
+}
+
+.testimonial p {
+  font-size: 1.4em;
+  text-align: center;
+  font-weight: 200;
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+.testimonial img {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  border-radius: 50%;
+  filter: grayscale(1);
+}
+
+.testimonial .img-main {
+  width: 100px;
+  height: 100px;
+  margin-top: -5px;
+  filter: grayscale(0);
+}
+
+.testimonial .info-text h5 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.testimonial .info-text p {
+  font-size: 12px;
+  margin-top: -5px;
+  color: #acacac;
+  font-style: normal;
+}
+
