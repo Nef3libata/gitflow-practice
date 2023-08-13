@@ -2,3 +2,8 @@
 .navbar-brand {
   font: 32px Viga;
 }
+@media (min-width: 992px) {
+  .navbar {
+    padding-top: 20px;
+  }
+}
